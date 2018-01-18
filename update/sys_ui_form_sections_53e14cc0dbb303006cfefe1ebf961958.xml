@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="53e14cc0dbb303006cfefe1ebf961958" sys_domain="global" table="x_186247_pranali_a_first_table" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-16 12:17:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d7e14cc0dbb303006cfefe1ebf96195a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_186247_pranali_a_first_table" name="x_186247_pranali_a_first_table" sys_domain="global" view="Default view">53e14cc0dbb303006cfefe1ebf961958</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_186247_pranali_a_first_table" sys_domain="global" view="Default view">a1b437bbdb6303006cfefe1ebf961983</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-16 12:17:43</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-16 12:17:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2fe14cc0dbb303006cfefe1ebf96195e</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_186247_pranali_a_first_table" name="x_186247_pranali_a_first_table" sys_domain="global" view="Default view">53e14cc0dbb303006cfefe1ebf961958</sys_ui_form>
+            <sys_ui_section caption="My section" display_value="My section" name="x_186247_pranali_a_first_table" sys_domain="global" view="Default view">17e14cc0dbb303006cfefe1ebf961957</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-16 12:20:58</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_186247_pranali_a_first_table</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-16 12:17:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>53e14cc0dbb303006cfefe1ebf961958</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_186247_pranali_a_first_table</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Pranali_App" source="x_186247_pranali_a">10cf43f7db2303006cfefe1ebf96199d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Pranali_App">10cf43f7db2303006cfefe1ebf96199d</sys_scope>
+            <sys_update_name>sys_ui_form_sections_53e14cc0dbb303006cfefe1ebf961958</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-16 12:17:43</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

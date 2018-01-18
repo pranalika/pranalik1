@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <hint/>
+        <name>First Table</name>
+        <order/>
+        <roles>x_186247_pranali_a.first_table_user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-01-16 11:15:32</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ecb3777fdb6303006cfefe1ebf961972</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>First Table</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Pranali_App" source="x_186247_pranali_a">10cf43f7db2303006cfefe1ebf96199d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pranali_App">10cf43f7db2303006cfefe1ebf96199d</sys_scope>
+        <sys_update_name>sys_ui_application_ecb3777fdb6303006cfefe1ebf961972</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-01-16 11:15:32</sys_updated_on>
+    </sys_ui_application>
+</record_update>
