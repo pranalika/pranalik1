@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-01-18 12:00:51</sys_created_on>
+        <sys_id>33311aa0db7303006cfefe1ebf9619bb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_186247_pranali_a_third_table.x_186247_pranali_a.third_table_user</sys_name>
+        <sys_package display_value="Pranali_App" source="x_186247_pranali_a">10cf43f7db2303006cfefe1ebf96199d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pranali_App">10cf43f7db2303006cfefe1ebf96199d</sys_scope>
+        <sys_security_acl display_value="x_186247_pranali_a_third_table">3b311aa0db7303006cfefe1ebf9619b8</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_33311aa0db7303006cfefe1ebf9619bb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-01-18 12:00:51</sys_updated_on>
+        <sys_user_role display_value="x_186247_pranali_a.third_table_user" name="x_186247_pranali_a.third_table_user">f73152a0db7303006cfefe1ebf9619c7</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

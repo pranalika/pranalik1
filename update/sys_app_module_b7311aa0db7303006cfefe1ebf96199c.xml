@@ -2,43 +2,43 @@
 <record_update sys_domain="global" table="sys_app_module">
     <sys_app_module action="INSERT_OR_UPDATE">
         <active>true</active>
-        <application display_value="All">e4b3777fdb6303006cfefe1ebf96196d</application>
+        <application display_value="Third Table">b33152a0db7303006cfefe1ebf9619cd</application>
         <assessment/>
         <content_page/>
         <device_type/>
         <filter/>
-        <hint>This is Pranali's first table</hint>
+        <hint/>
         <homepage/>
         <image/>
         <link_type>LIST</link_type>
         <map_page/>
-        <mobile_title>First Tables</mobile_title>
+        <mobile_title>Third Tables</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
-        <name>x_186247_pranali_a_first_table</name>
-        <order>300</order>
+        <name>x_186247_pranali_a_third_table</name>
+        <order/>
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
-        <roles>x_186247_pranali_a.first_table_user</roles>
+        <roles>x_186247_pranali_a.third_table_user</roles>
         <survey/>
         <survey_overwrite>true</survey_overwrite>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-01-16 11:15:32</sys_created_on>
+        <sys_created_on>2018-01-18 12:00:51</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>e0b3777fdb6303006cfefe1ebf961970</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_name>Open</sys_name>
+        <sys_id>b7311aa0db7303006cfefe1ebf96199c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Third Tables</sys_name>
         <sys_overrides/>
         <sys_package display_value="Pranali_App" source="x_186247_pranali_a">10cf43f7db2303006cfefe1ebf96199d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Pranali_App">10cf43f7db2303006cfefe1ebf96199d</sys_scope>
-        <sys_update_name>sys_app_module_e0b3777fdb6303006cfefe1ebf961970</sys_update_name>
+        <sys_update_name>sys_app_module_b7311aa0db7303006cfefe1ebf96199c</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-01-18 13:04:50</sys_updated_on>
+        <sys_updated_on>2018-01-18 12:00:51</sys_updated_on>
         <timeline_page/>
-        <title>Open</title>
+        <title>Third Tables</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>

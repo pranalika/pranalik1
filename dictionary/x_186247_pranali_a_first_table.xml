@@ -2,6 +2,7 @@
 <database>
     <element label="First Table" max_length="40" name="x_186247_pranali_a_first_table" type="collection">
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="My choice" mandatory="true" max_length="40" name="u_choice_3" type="string">
             <choice>
                 <element label="Choice 1" sequence="0" value="Personal"/>
@@ -9,8 +10,12 @@
                 <element label="Choice 3" sequence="2" value="Internal"/>
             </choice>
         </element>
+        <element label="Requested by" mandatory="true" max_length="32" name="u_reference_1" reference="sys_user" type="reference"/>
         <element attributes="edge_encryption_enabled=true" label="Short description" mandatory="true" max_length="100" name="u_string_1" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Description" max_length="1000" name="u_string_2" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Short Description" mandatory="true" max_length="100" name="u_string_5" type="string"/>
+        <index name="index">
+            <element name="u_reference_1"/>
+        </index>
     </element>
 </database>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="x_186247_pranali_a_first_table" label="Second Table" max_length="40" name="x_186247_pranali_a_second_table" type="collection">
+        <element attributes="omit_sys_original=true,serializer=com.glide.script.PriceXMLSerializer" label="Amount impacted" max_length="20" name="u_price_1" type="price"/>
+    </element>
+</database>

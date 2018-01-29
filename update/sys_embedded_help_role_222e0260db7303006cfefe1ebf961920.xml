@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_186247_pranali_a.second_table_user" name="x_186247_pranali_a.second_table_user">a22e4e20db7303006cfefe1ebf961972</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-01-18 11:47:23</sys_created_on>
+        <sys_id>222e0260db7303006cfefe1ebf961920</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>a22e4e20db7303006cfefe1ebf961972</sys_name>
+        <sys_package display_value="Pranali_App" source="x_186247_pranali_a">10cf43f7db2303006cfefe1ebf96199d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pranali_App">10cf43f7db2303006cfefe1ebf96199d</sys_scope>
+        <sys_update_name>sys_embedded_help_role_222e0260db7303006cfefe1ebf961920</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-01-18 11:47:23</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
